@@ -62,10 +62,10 @@ The system will then try its best to suggest what word you meant!
 
 🌟 Future Improvements:
 
-🔄 Speed up large dictionary lookups (using Trie or optimized search)
-🧠 Handle common Braille input mistakes more intelligently
-📚 Support for Grade 2 Braille (contractions)
-🎨 Build a simple Graphical User Interface (GUI)
+🔄 Speed up large dictionary lookups (using Trie or optimized search) 
+🧠 Handle common Braille input mistakes more intelligently 
+📚 Support for Grade 2 Braille (contractions) 
+🎨 Build a simple Graphical User Interface (GUI) 
 ✨ Add user learning and personalized suggestions
 
 Hope you find it useful!
