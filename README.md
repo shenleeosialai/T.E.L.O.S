@@ -87,5 +87,7 @@ The system will then try its best to suggest what word you meant!
 ✨ Add user learning and personalized suggestions
 
 Hope you find it useful!
+
 Garv Agarwal
+
 <agarwalgarv494@gmail.com>
