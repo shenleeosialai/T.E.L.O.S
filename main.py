@@ -1,11 +1,8 @@
-from braille_utils import qwerty_to_braille_dots # Keep this
-from dictionary_loader import load_dictionary_optimized # CHANGED
-from corrector import suggest_words_optimized      # CHANGED
-
+from braille_utils import qwerty_to_braille_dots
+from dictionary_loader import load_dictionary_optimized
+from corrector import suggest_words_optimized 
 def main():
     print("Loading dictionary using OPTIMIZED method...")
-    # CHANGED: Load the deletes_lookup_map
-    # You can adjust max_dictionary_deletes if needed, 1 or 2 is common.
     deletes_map, word_count = load_dictionary_optimized(file_path="dictionary.txt", max_dictionary_deletes=1) 
     
     if not deletes_map or word_count == 0:
@@ -29,7 +26,7 @@ def main():
             continue
 
         qwerty_char_inputs = user_input_str.split()
-        input_braille_sequence_list = [] # Keep as list for suggest_words_optimized
+        input_braille_sequence_list = []
         
         for qwerty_char_input in qwerty_char_inputs:
             braille_dots_tuple = qwerty_to_braille_dots(qwerty_char_input)
@@ -43,16 +40,12 @@ def main():
 
         print(f"Interpreted input Braille sequence: {input_braille_sequence_list}")
         
-        # CHANGED: Call suggest_words_optimized
-        # Adjust parameters as needed:
-        # - max_edit_distance_for_input_deletes: how many deletes to make from user input (usually same as max_dictionary_deletes)
-        # - max_levenshtein_threshold: final filter for suggestions
         suggestions = suggest_words_optimized(
             input_braille_sequence_list=input_braille_sequence_list, 
             deletes_lookup_map=deletes_map, 
             num_suggestions=5,
-            max_edit_distance_for_input_deletes=1, # Should match how deletes_map was built
-            max_levenshtein_threshold=2 # Max Levenshtein distance for a word to be considered
+            max_edit_distance_for_input_deletes=1,
+            max_levenshtein_threshold=2 
         )
 
         if suggestions:
