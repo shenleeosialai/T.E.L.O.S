@@ -3,8 +3,6 @@
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Issues](https://img.shields.io/github/issues/garv999/Braille-Autocorrect-and-Suggestion-System)
-![Forks](https://img.shields.io/github/forks/garv999/Braille-Autocorrect-and-Suggestion-System)
-![Stars](https://img.shields.io/github/stars/garv999/Braille-Autocorrect-and-Suggestion-System)
 ![Last Commit](https://img.shields.io/github/last-commit/garv999/Braille-Autocorrect-and-Suggestion-System)
 
 
