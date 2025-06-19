@@ -60,7 +60,8 @@ The system will then try its best to suggest what word you meant!
 
 ## Things We Could Do Next (Ideas!)
 
-🌟 Future Improvements
+🌟 Future Improvements:
+
 🔄 Speed up large dictionary lookups (using Trie or optimized search)
 🧠 Handle common Braille input mistakes more intelligently
 📚 Support for Grade 2 Braille (contractions)
