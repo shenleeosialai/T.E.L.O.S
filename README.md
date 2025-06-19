@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/garv999/Braille-Autocorrect-and-Suggestion-System/blob/main/A_logo_for_a_tool_named_%22Braille_QWERTY_Helper%22_is.png?raw=true" alt="Braille QWERTY Helper Logo" width="300"/>
+</p>
+
 # Braille QWERTY Helper: Type Braille, Get Suggestions✨
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
