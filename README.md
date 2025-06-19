@@ -1,12 +1,30 @@
-# Braille QWERTY Helper: Type Braille, Get Suggestions✨
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Issues](https://img.shields.io/github/issues/garv999/Braille-Autocorrect-and-Suggestion-System)
-![Last Commit](https://img.shields.io/github/last-commit/garv999/Braille-Autocorrect-and-Suggestion-System)
+# Braille QWERTY Helper: Type Braille, Get Suggestions ✨
 
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.x-blue" />
+  </a>
+  <a href="https://github.com/garv999/Braille-Autocorrect-and-Suggestion-System/issues">
+    <img src="https://img.shields.io/github/issues/garv999/Braille-Autocorrect-and-Suggestion-System" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" />
+  </a>
+  <a href="https://choosealicense.com/licenses/mit/">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://github.com/garv999/Braille-Autocorrect-and-Suggestion-System/commits/main">
+    <img src="https://img.shields.io/github/last-commit/garv999/Braille-Autocorrect-and-Suggestion-System" />
+  </a>
+</p>
 
-Hey there! This little project is all about making it easier to type in Braille using a regular QWERTY keyboard. If you've ever tried six-key Braille input, you know it can be tricky to get every dot perfect. This tool helps by suggesting the correct words even if you make a small typo.
+---
+
+Hey there! 👋 This little project is all about making it easier to type in Braille using a regular QWERTY keyboard.  
+If you've ever tried six-key Braille input, you know it can be tricky to get every dot perfect.  
+This tool helps by suggesting the correct words even if you make a small typo.
+
+---
 
 ## What's Inside?
 
