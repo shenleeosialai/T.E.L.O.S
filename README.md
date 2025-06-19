@@ -1,5 +1,8 @@
 # Braille QWERTY Helper: Type Braille, Get Suggestions
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+
 Hey there! This little project is all about making it easier to type in Braille using a regular QWERTY keyboard. If you've ever tried six-key Braille input, you know it can be tricky to get every dot perfect. This tool helps by suggesting the correct words even if you make a small typo.
 
 ## What's Inside?
