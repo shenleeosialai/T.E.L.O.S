@@ -1,4 +1,4 @@
-# Braille QWERTY Helper: Type Braille, Get Suggestions
+# Braille QWERTY Helper: Type Braille, Get Suggestions✨
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -60,11 +60,12 @@ The system will then try its best to suggest what word you meant!
 
 ## Things We Could Do Next (Ideas!)
 
-* Make it faster for *really* big dictionaries (maybe with a Trie or something similar).
-* Get smarter about common Braille typos.
-* Let it learn from your choices to give even better suggestions over time.
-* Add support for Grade 2 Braille (contractions).
-* Maybe even a simple graphical interface!
+🌟 Future Improvements
+🔄 Speed up large dictionary lookups (using Trie or optimized search)
+🧠 Handle common Braille input mistakes more intelligently
+📚 Support for Grade 2 Braille (contractions)
+🎨 Build a simple Graphical User Interface (GUI)
+✨ Add user learning and personalized suggestions
 
 Hope you find it useful!
 Garv Agarwal
