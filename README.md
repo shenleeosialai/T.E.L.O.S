@@ -1,26 +1,10 @@
-# Braille QWERTY Helper: Type Braille, Get Suggestions ✨
+# Braille QWERTY Helper: Type Braille, Get Suggestions 
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.x-blue" />
-  </a>
-  <a href="https://github.com/garv999/Braille-Autocorrect-and-Suggestion-System/issues">
-    <img src="https://img.shields.io/github/issues/garv999/Braille-Autocorrect-and-Suggestion-System" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" />
-  </a>
-  <a href="https://choosealicense.com/licenses/mit/">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://github.com/garv999/Braille-Autocorrect-and-Suggestion-System/commits/main">
-    <img src="https://img.shields.io/github/last-commit/garv999/Braille-Autocorrect-and-Suggestion-System" />
-  </a>
-</p>
+
 
 ---
 
-Hey there! 👋 This little project is all about making it easier to type in Braille using a regular QWERTY keyboard.  
+Hey there! This little project is all about making it easier to type in Braille using a regular QWERTY keyboard.  
 If you've ever tried six-key Braille input, you know it can be tricky to get every dot perfect.  
 This tool helps by suggesting the correct words even if you make a small typo.
 
@@ -85,9 +69,3 @@ The system will then try its best to suggest what word you meant!
 📚 Support for Grade 2 Braille (contractions) 
 🎨 Build a simple Graphical User Interface (GUI) 
 ✨ Add user learning and personalized suggestions
-
-Hope you find it useful!
-
-Garv Agarwal
-
-<agarwalgarv494@gmail.com>
